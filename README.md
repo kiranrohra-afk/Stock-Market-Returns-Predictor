@@ -1,5 +1,5 @@
-## Stock-Market-Returns-Predictor
-# Introduction
+# Stock Market Returns Predictor
+## Introduction
 
 An ETF or Exchange- Traded Fund is an investment fund that lets you buy
 a large basket of individual stocks or government and corporate bonds in
